@@ -90,4 +90,9 @@ Interactive dashboard in [`customer_shopping_behavior_dashboard.pbix`](customer_
 
 ---
 
-**Author:** Simerpreet Kaur
+## Author
+
+**Simerpreet Kaur**
+Data Analyst | Excel • SQL • Power BI • Python
+
+[LinkedIn](https://www.linkedin.com/in/simer-preet-kaur/) · [GitHub](https://github.com/Simer45)
